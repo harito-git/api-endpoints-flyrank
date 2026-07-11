@@ -1,0 +1,30 @@
+{
+  "name": "api-endpoints-flyrank",
+  "version": "1.0.0",
+  "description": "This is my week 1 flyrank assignment create two api endpoints with JSON responses. I am doing that on the server side with Express.js.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harito-git/api-endpoints-flyrank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harito-git/api-endpoints-flyrank/issues"
+  },
+  "homepage": "https://github.com/harito-git/api-endpoints-flyrank#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.1.1",
+    "typescript": "^7.0.2"
+  }
+}
