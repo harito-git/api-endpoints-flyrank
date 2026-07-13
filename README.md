@@ -11,10 +11,15 @@ Then
 ```
 curl http:localhost://localhost:3000.com/get
 ```
-Output of First JSON Endpoint
+Output of First JSON Endpoint:
+
+
 <img width="552" height="31" alt="output_1_endpoint" src="https://github.com/user-attachments/assets/9b0a28fc-0570-443c-b3dd-bc02dac0adcc" />
 
-Output of Second JSON Endpoint
+Output of Second JSON Endpoint:
+
+
+
 <img width="546" height="32" alt="output_2" src="https://github.com/user-attachments/assets/1430a608-87e0-47d6-913b-0023b7de7161" />
 
 Let's go. 
