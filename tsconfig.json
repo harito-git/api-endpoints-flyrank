@@ -11,7 +11,10 @@
     "target": "esnext",
     "types": ["node", "express"],
     // For nodejs:
+<<<<<<< HEAD
     
+=======
+>>>>>>> 5d668300596cd2c0619cd4f949a4bcc734d12396
     // "lib": ["esnext"],
     // "types": ["node"],
     // and npm install -D @types/node

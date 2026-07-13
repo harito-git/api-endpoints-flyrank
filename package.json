@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "This is my week 1 flyrank assignment create two api endpoints with JSON responses. I am doing that on the server side with Express.js.",
   "main": "index.ts",
+<<<<<<< HEAD
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
+=======
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 5d668300596cd2c0619cd4f949a4bcc734d12396
   },
   "repository": {
     "type": "git",
@@ -22,13 +27,22 @@
   },
   "homepage": "https://github.com/harito-git/api-endpoints-flyrank#readme",
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+>>>>>>> 5d668300596cd2c0619cd4f949a4bcc734d12396
     "express": "^5.2.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
+<<<<<<< HEAD
     "@types/helmet": "^0.0.48",
     "@types/node": "^26.1.1",
     "ts-node": "^10.9.2",
+=======
+    "@types/node": "^26.1.1",
+>>>>>>> 5d668300596cd2c0619cd4f949a4bcc734d12396
     "typescript": "^7.0.2"
   }
 }
